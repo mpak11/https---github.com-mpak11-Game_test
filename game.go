@@ -57,4 +57,4 @@ func (g *Game) Layout(int, int) (int, int) {
 	return 1080, 920 // Устанавливаем размеры окна
 }
 
-//test
+//test 123
